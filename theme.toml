@@ -1,0 +1,12 @@
+name = "Community"
+license = "Apache License 2.0"
+licenselink = "//github.com/barkerd427/hugo-community-theme/blob/master/LICENSE"
+description = "A one page community organization website"
+homepage = "//github.com/barkerd427/hugo-community-theme"
+tags = ["community", "contact form", "timeline", "google analytics", "piwik"]
+min_version = 0.15
+
+[author]
+  name = "Dan Barker"
+  homepage = "//github.com/barkerd427/hugo-community-theme"
+
