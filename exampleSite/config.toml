@@ -21,6 +21,10 @@ googleAnalytics = ""
   description = "Your description"
   # email = "your@email.com"
 
+  [params.mailchimp]
+    uuid = "uuid"
+    lid = "lid"
+
   # Link custom assets relative to /static
   custom_css = []
   custom_js  = []
